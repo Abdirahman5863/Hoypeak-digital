@@ -10,6 +10,8 @@ const Navbar = () => {
             <h1 className="text-3xl font-bold text-orange-600">
               HOY<span className="text-[#0000ff]">PEAK</span>
             </h1>
+
+            
             <p className="text-center text-sm text-[#0000ff]">Your Hoy, Our Peak</p>
           </div>
         </div>
