@@ -25,7 +25,7 @@ const page = () => {
       <section>
         <About />
       </section>
-      <section>
+      <section id="contact">
         <Contact />
       </section>
       <footer>
